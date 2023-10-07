@@ -1,0 +1,25 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Mike",
+      "email": "114514@qq.com",
+      "password": "flzx3000feet",
+      "identity": "manager"
+    },
+    {
+      "name": "Harry",
+      "email": "harry@linkedin.com",
+      "password": "ysyhfall9sky",
+      "identity": "staff",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Musk",
+      "email": "Musk@x.com",
+      "password": "dogeCoinToTheMoon",
+      "identity": "manager"
+    }
+  ]
+}
