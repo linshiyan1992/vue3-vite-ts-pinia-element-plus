@@ -20,6 +20,30 @@
       "email": "Musk@x.com",
       "password": "dogeCoinToTheMoon",
       "identity": "manager"
+    },
+    {
+      "id": 4,
+      "name": "Murai",
+      "email": "Murai@linkedin.com",
+      "password": "U2FsdGVkX1/aTn+7Tj1J+em5QFHM8DSmKtNncDRWdhg=",
+      "identity": "staff"
+    },
+    {
+      "id": 5,
+      "name": "Muke",
+      "email": "Muke@github.com",
+      "password": "U2FsdGVkX1/3D+KziN1mDWt+riw3xeoEQK7ybgAwrcEnJDXNXvJniutP3/bomKvX",
+      "identity": "staff",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/766.jpg"
+    },
+    {
+      "id": "96282e91af07b3adf9cbf4e6",
+      "name": "Van Dyke",
+      "email": "VanDj@ajax.com",
+      "password": "U2FsdGVkX18UJHcd74cnAlfoHdAlCSi372OSyi6AIzg=",
+      "identity": "staff",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/776.jpg",
+      "date": "2023-10-07T16:53:46.986Z"
     }
   ]
 }
